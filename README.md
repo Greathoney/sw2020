@@ -12,7 +12,7 @@
 1. [ICPC 문제풀이](https://github.com/Greathoney/ICPC2019_tryout_Problems)
 2. [베릴로그 텀프로젝트](https://github.com/Greathoney/Verilog_TermProject)
 3. [자세교정자켓](https://github.com/Greathoney/Posture_correction_jacket)
-4. [파이썬 활용한 데이터분석/머신러닝] (https://github.com/Greathoney/applying_python)
+4. [파이썬 활용한 데이터분석,머신러닝](https://github.com/Greathoney/applying_python)
 
 ## 2020년
 
